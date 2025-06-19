@@ -1,2 +1,2 @@
 # vision-vit
-visionai vit fro cpu usage
+visionai vit for cpu usage
